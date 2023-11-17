@@ -12,3 +12,12 @@ For this purpose, we will be using the [SAP S/4HANA Business Partner API](https:
 # Solution Diagram
 
   ![Solution Diagram](./images/Solution-Diagram-RS.png)
+
+# options
+
+|                      | SAP BTP, Cloud Foundry Runtime                  | SAP BTP, Kyma Runtime                           |
+|----------------------|-------------------------------------------------|-------------------------------------------------|
+| Mock Server       |  [Connect to a Remote Service Using the SAP Destination Service (SAP BTP, Cloud Foundry Runtime and Mock Server)](remote-service-mock-cf.md)              | [Connect to a Remote Service Using the SAP Destination Service (SAP BTP, Kyma Runtime and Mock Server)](remote-service-mock-kyma.md)             |
+| SAP S/4HANA Cloud      |  [Connect to a Remote Service Using the SAP Destination Service (SAP BTP, Cloud Foundry Runtime and SAP S/4HANA Cloud)](remote-service-s4-cf.md)             | [Connect to a Remote Service Using the SAP Destination Service (SAP BTP, Kyma Runtime and SAP S/4HANA Cloud)](remote-service-s4-kyma.md)             |
+
+
