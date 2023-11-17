@@ -1,7 +1,7 @@
 # Connect to a Remote Service Using the SAP Destination Service
 
 1. [Introduction](./introduction.md)
-1. [Prerequisites](./mission-prerequisites/README.md)
+1. [Prerequisites](./mission-prerequisites/s4h-kyma.md)
 2. [Explore APIs & events in SAP API Business Hub](./explore-apis-and-events/README.md)
 3. [Configure the connectivity between SAP S/4HANA Cloud and SAP BTP](./s4hana-cloud-to-btp-connectivity/README.md)
 5. [Implement remote service connectivity](./develop/extend-app.md)
